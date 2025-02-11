@@ -10,10 +10,11 @@
     "format": "prettier --write ./src"
   },
   "dependencies": {
-    "ra-data-simple-rest": "^5.4.0",
+    "ra-data-simple-rest": "^5.5.3",
     "react": "^18.3.0",
     "react-admin": "^5.4.0",
-    "react-dom": "^18.3.0"
+    "react-dom": "^18.3.0",
+    "react-router-dom": "^7.1.5"
   },
   "devDependencies": {
     "@types/node": "^20.10.7",

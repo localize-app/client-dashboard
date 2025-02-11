@@ -1,0 +1,17 @@
+[
+    { "id": 1, "name": "Integration 1", "type": "API", "status": "Active" },
+    { "id": 2, "name": "Integration 2", "type": "Webhook", "status": "Inactive" },
+    { "id": 3, "name": "Integration 3", "type": "API", "status": "Active" },
+    { "id": 4, "name": "Integration 4", "type": "Webhook", "status": "Inactive" },
+    { "id": 5, "name": "Integration 5", "type": "API", "status": "Active" },
+    { "id": 6, "name": "Integration 6", "type": "Webhook", "status": "Inactive" },
+    { "id": 7, "name": "Integration 7", "type": "API", "status": "Active" },
+    { "id": 8, "name": "Integration 8", "type": "Webhook", "status": "Inactive" },
+    { "id": 9, "name": "Integration 9", "type": "API", "status": "Active" },
+    { "id": 10, "name": "Integration 10", "type": "Webhook", "status": "Inactive" },
+    { "id": 11, "name": "Integration 11", "type": "API", "status": "Active" },
+    { "id": 12, "name": "Integration 12", "type": "Webhook", "status": "Inactive" },
+    { "id": 13, "name": "Integration 13", "type": "API", "status": "Active" },
+    { "id": 14, "name": "Integration 14", "type": "Webhook", "status": "Inactive" },
+    { "id": 15, "name": "Integration 15", "type": "API", "status": "Active" }
+  ]
