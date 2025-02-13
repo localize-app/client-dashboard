@@ -1,0 +1,17 @@
+[
+  { "id": 1, "phrase": "Hello", "translation": "Hola" },
+  { "id": 2, "phrase": "Goodbye", "translation": "Adiós" },
+  { "id": 3, "phrase": "Thank you", "translation": "Gracias" },
+  { "id": 4, "phrase": "Please", "translation": "Por favor" },
+  { "id": 5, "phrase": "Yes", "translation": "Sí" },
+  { "id": 6, "phrase": "No", "translation": "No" },
+  { "id": 7, "phrase": "How are you?", "translation": "¿Cómo estás?" },
+  { "id": 8, "phrase": "Good morning", "translation": "Buenos días" },
+  { "id": 9, "phrase": "Good night", "translation": "Buenas noches" },
+  { "id": 10, "phrase": "Help", "translation": "Ayuda" },
+  { "id": 11, "phrase": "Where is the bathroom?", "translation": "¿Dónde está el baño?" },
+  { "id": 12, "phrase": "I love you", "translation": "Te quiero" },
+  { "id": 13, "phrase": "Excuse me", "translation": "Disculpe" },
+  { "id": 14, "phrase": "What's your name?", "translation": "¿Cómo te llamas?" },
+  { "id": 15, "phrase": "See you later", "translation": "Hasta luego" }
+]

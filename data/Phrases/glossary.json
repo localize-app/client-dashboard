@@ -1,0 +1,17 @@
+[
+    { "id": 1, "term": "API", "definition": "Application Programming Interface" },
+    { "id": 2, "term": "Webhook", "definition": "A way for apps to send real-time data" },
+    { "id": 3, "term": "SDK", "definition": "Software Development Kit" },
+    { "id": 4, "term": "CI/CD", "definition": "Continuous Integration/Continuous Deployment" },
+    { "id": 5, "term": "DevOps", "definition": "Combination of Development and Operations" },
+    { "id": 6, "term": "JSON", "definition": "JavaScript Object Notation" },
+    { "id": 7, "term": "REST", "definition": "Representational State Transfer" },
+    { "id": 8, "term": "GraphQL", "definition": "Query language for APIs" },
+    { "id": 9, "term": "SSH", "definition": "Secure Shell Protocol" },
+    { "id": 10, "term": "SSL", "definition": "Secure Sockets Layer" },
+    { "id": 11, "term": "CDN", "definition": "Content Delivery Network" },
+    { "id": 12, "term": "ORM", "definition": "Object-Relational Mapping" },
+    { "id": 13, "term": "JWT", "definition": "JSON Web Token" },
+    { "id": 14, "term": "OAuth", "definition": "Open Authorization Protocol" },
+    { "id": 15, "term": "DNS", "definition": "Domain Name System" }
+  ]

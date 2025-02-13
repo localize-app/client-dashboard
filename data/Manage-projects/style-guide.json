@@ -1,0 +1,17 @@
+[
+    { "id": 1, "name": "Style Guide 1", "version": "1.0.0" },
+    { "id": 2, "name": "Style Guide 2", "version": "2.0.0" },
+    { "id": 3, "name": "Style Guide 3", "version": "3.0.0" },
+    { "id": 4, "name": "Style Guide 4", "version": "4.0.0" },
+    { "id": 5, "name": "Style Guide 5", "version": "5.0.0" },
+    { "id": 6, "name": "Style Guide 6", "version": "6.0.0" },
+    { "id": 7, "name": "Style Guide 7", "version": "7.0.0" },
+    { "id": 8, "name": "Style Guide 8", "version": "8.0.0" },
+    { "id": 9, "name": "Style Guide 9", "version": "9.0.0" },
+    { "id": 10, "name": "Style Guide 10", "version": "10.0.0" },
+    { "id": 11, "name": "Style Guide 11", "version": "11.0.0" },
+    { "id": 12, "name": "Style Guide 12", "version": "12.0.0" },
+    { "id": 13, "name": "Style Guide 13", "version": "13.0.0" },
+    { "id": 14, "name": "Style Guide 14", "version": "14.0.0" },
+    { "id": 15, "name": "Style Guide 15", "version": "15.0.0" }
+  ]
